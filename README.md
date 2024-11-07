@@ -1,2 +1,6 @@
 # Movie-Review
-movie review data analysis project done for an internship in Cognitive IT solutions, Salem
+This project provides an analysis of movie rating (by audience and critics),
+movie budgets, and the number is movies released under various genres from the
+years 2007 to 2011. The analysis aims to uncover trends in budgets allocation,
+movie releases, and rating correlation to support strategic decision-making for the
+movie review company.
